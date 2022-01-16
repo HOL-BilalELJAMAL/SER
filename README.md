@@ -10,7 +10,7 @@ Before I explain to you the terms related to this mini python project, make sure
 * pickle
 
 ## Demo
-For running a demo, after forking the repository, run the following scrit:
+For running a demo, after forking the repository, run the following script:
 
           python 0-main.py
    
